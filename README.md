@@ -37,3 +37,11 @@ YOLOv8이 객체 검출뿐만 아니라 인물 검출의 가능성을 확인하�
 프로젝트 전체 과정
 ----
 ![image](https://github.com/user-attachments/assets/347bb4bd-a1f4-4759-9a96-61e89fe33cca)
+
+Predicted Image
+---
+![image](https://github.com/user-attachments/assets/e783b967-0074-43b4-b1b6-26f5153392cb)
+
+![image](https://github.com/user-attachments/assets/8b80f095-686e-4ade-aed4-f771bf743541)
+
+
